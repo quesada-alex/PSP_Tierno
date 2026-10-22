@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Ej06EscribirEntrada" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Ej06EscribirEntrada" />
+    <module name="partida-A01-8" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Ej09Tuberia" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Ej09Tuberia" />
+    <module name="partida-A01-8" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
